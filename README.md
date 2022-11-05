@@ -19,13 +19,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot](Screenshot (38).png)
+![Screenshot (38)](https://user-images.githubusercontent.com/55752850/200143550-f167a2c1-b4ad-4207-99df-4f3cfa0d6b2d.png)
+
+![Screenshot (39)](https://user-images.githubusercontent.com/55752850/200143563-b88ebc34-dfbc-4a8d-a1a2-e7d725cd2320.png)
 
 
 
 ### Links
 
-- Solution URL: [Github]((https://github.com/ramz04/Qr-Code/))
+- Solution URL: [Github](https://github.com/ramz04/Qr-Code/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
